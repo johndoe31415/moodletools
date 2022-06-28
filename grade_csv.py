@@ -21,7 +21,6 @@
 #	Johannes Bauer <JohannesBauer@gmx.de>
 
 import sys
-import json
 import csv
 import os
 import collections
