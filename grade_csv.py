@@ -53,7 +53,6 @@ class Grader():
 			self._writer.writerow(line)
 			return
 
-
 		invalue = line[self._args.col_number - 1]
 		invalue = invalue.replace(",", ".")
 		try:
